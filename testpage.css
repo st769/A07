@@ -1,5 +1,14 @@
 h1 {
     font-weight: bold;
-    color: blueviolet;
+    color: crimson;
     font-family: Arial, Helvetica, sans-serif;
+}
+#test {
+    border-color: blueviolet;
+    border-width: thick;
+    background-color: cadetblue;
+    width: 180px;
+    height: 140px;
+    padding: 30px;
+    text-align: center;
 }
